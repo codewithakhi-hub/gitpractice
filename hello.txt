@@ -2,3 +2,4 @@ Hello, Git!
 This is my first Git repository.
 I am learning Git commands from Developer B.
 This line was added after cloning.
+Git practice is making me better every day.
