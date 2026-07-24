@@ -1,6 +1,6 @@
 Hello, Git!
 This is my first Git repository.
-I am learning Git commands from Developer B.
+I am learning Git commands on the main branch.
 This line was added after cloning.
 Git practice is making me better every day.
 Tomorrow I will practice Git again.
