@@ -4,8 +4,7 @@ I am learning Git commands on the main branch.
 This line was added after cloning.
 Git practice is making me better every day.
 Tomorrow I will practice Git again.
-I love Gitsgit 
+I love git 
 I love experiment.
 GitHub push practice
 GitHub made this change
-I am practicing Git commit and push!
